@@ -1,2 +1,2 @@
 # memory-card-game
-iOS memory card game just for fun :P
+iOS memory card game just for fun using Swift 5
