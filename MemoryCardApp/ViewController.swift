@@ -108,6 +108,7 @@ class ViewController: UIViewController {
     
     func restart()
     {
+        correctAnswers = 0
         prepAndShuffleCards()
         numberOfTaps = 0
         
